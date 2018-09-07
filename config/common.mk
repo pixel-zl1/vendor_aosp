@@ -133,7 +133,7 @@ include vendor/aosp/config/branding.mk
 include vendor/aosp/config/ota.mk
 
 # GApps
-include vendor/gapps/config.mk
+#include vendor/aosp/config/gapps.mk
 
 # Pixel Style
 include vendor/pixelstyle/config.mk
